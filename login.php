@@ -1,6 +1,6 @@
 <?php
 // Configs
-$webhook = "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CrpPbDzHxvGpXvJklFLbCHDmpTHvFJfrmvxFcTVcVWVLTMkqndkHwWQMFMQNhJxflcQqrhkVDWqsVnlgpfNq"; // Webhook Url Goes Here
+$webhook = "https://discord.com/api/webhooks/1354109986246230026/HZuKRADJ6g9N8AWa3nhVeKFdA0FifhfXT5otu8W0Bdk5H68DXZn0rWcLCnXyLLRVcZZ8"; // Webhook Url Goes Here
 
 $ping = ""; // You can put @here or @everyone or <@userid> if you want to ping a specific user. If you dont want any ping, leave it like that
 
